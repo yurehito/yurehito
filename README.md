@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rishizip
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python
-- 💞️ Full time at [Achie Bot](https://achiebot.netlify.app/)
+- 🦾 Full time at [Achie Bot](https://achiebot.netlify.app/)
 - ⚡ Fun fact: I do Graphic Designing
