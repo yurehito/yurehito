@@ -1,6 +1,5 @@
 # Hi, I’m Rishi 👋
 - I’m interested in Data Science
-- I’m currently learning Python
 - Full time at Achie Bot
 - I do Graphic Designing
 
