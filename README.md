@@ -1,6 +1,6 @@
 # Hi, I’m Rishi 👋
 - I’m interested in Data Science
-- Full time at Achie Bot
+- Currently learning Python
 - I do Graphic Designing
 
 # Socials
