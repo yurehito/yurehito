@@ -3,3 +3,6 @@
 - I’m currently learning Python
 - Full time at [Achie]( https://achiebot.netlify.app/) Bot
 - Fun fact: I do Graphic Designing
+
+# socials
+[![Image Alt]()](https://www.instagram.com/rishizip/)
