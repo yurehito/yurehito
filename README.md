@@ -4,6 +4,7 @@
 <br>
 🌱 I’m currently learning Python
 <br>
-🦾 Full time at [Achie](https://achiebot.netlify.app/) Bot
+
+🦾 Full time at [Achie](https://achiebot.netlify.app/)
 <br>
 ⚡ Fun fact : I do Graphic Designing
