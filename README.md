@@ -1,2 +1,2 @@
 
-![gif](https://github.com/rishizip/python-lectures/blob/8dd93d9b129171c068fd2810dff3cee4fc7515a2/GIF%20-%20Made%20with%20Clipchamp%20(2).gif?raw=true)
+![gif](https://github.com/rishizip/python-lectures/blob/92a8232de758f078464a5609e263ed5a6cef3e56/custom%20bio%20ezgif.gif)
