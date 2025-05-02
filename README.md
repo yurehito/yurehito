@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Yurei Banner](https://github.com/yurehito/docs/blob/dc4526035643fe7cd989680a33d110ce234d1df1/yurehito%20banner.png?raw=true)
+![Yurei Banner](https://github.com/yurehito/docs/blob/610e5833157bf89b833ac39c71da2a3b86ed8e1f/yurei.is-a.dev%20%5Bupdated%5D.png?raw=true)
 
 <!-- Social Badges -->
 <p align="center">
