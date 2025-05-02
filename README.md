@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Yurei Banner](https://yourdomain.com/path-to-banner.png)
+![Yurei Banner](https://github.com/yurehito/docs/blob/dc4526035643fe7cd989680a33d110ce234d1df1/yurehito%20banner.png?raw=true)
 
 <!-- Social Badges -->
 <p align="center">
@@ -13,19 +13,3 @@
     <img src="https://img.shields.io/badge/Website-%23121011.svg?style=for-the-badge&logo=Firefox&logoColor=white" alt="Website"/>
   </a>
 </p>
-
-
-<!--
-**yurehito/yurehito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
