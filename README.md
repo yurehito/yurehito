@@ -1,1 +1,1 @@
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Mynerve&size=22&duration=2090&pause=2100&color=F1ECE5&center=true&vCenter=true&width=435&lines=hey+i'm+yuurei;im+kind+of+a+vibe+coder;nice+to+meet+you+all;feel+free+to+look+around)](https://git.io/typing-svg)
