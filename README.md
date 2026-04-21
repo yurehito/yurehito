@@ -13,9 +13,9 @@
 <p align="center">
   <a href="https://yurei.is-a.dev"><img src="https://raw.githubusercontent.com/yurehito/docs/dec13765cd114f96b9ee9400029ac81c40a8ec94/website-aqua.png" width="52"></a>
   &nbsp;
-  <a href="https://www.instagram.com/yurehito/"><img src="https://raw.githubusercontent.com/yurehito/docs/dec13765cd114f96b9ee9400029ac81c40a8ec94/instagram-aqua.png" width="52"></a>
+  <a href="https://www.instagram.com/yurehito/"><img src="https://raw.githubusercontent.com/yurehito/docs/dec13765cd114f96b9ee9400029ac81c40a8ec94/instagram-aqua.png" width="60"></a>
   &nbsp;
   <a href="https://profile.yurei.is-a.dev/"><img src="https://raw.githubusercontent.com/yurehito/docs/dec13765cd114f96b9ee9400029ac81c40a8ec94/guns-lol-aqua.png" width="52"></a>
   &nbsp;
-  <a href="https://discord.com/users/998608551431897170"><img src="https://raw.githubusercontent.com/yurehito/docs/dec13765cd114f96b9ee9400029ac81c40a8ec94/discord-aqua.png" width="52"></a>
+  <a href="https://discord.com/users/998608551431897170"><img src="https://raw.githubusercontent.com/yurehito/docs/dec13765cd114f96b9ee9400029ac81c40a8ec94/discord-aqua.png" width="55"></a>
 </p>
