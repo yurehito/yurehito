@@ -1,1 +1,1 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/998608551431897170?hideBadges=true&hideProfile=true&hideDecoration=true&hideStatus=true&hideTag=true&hideSpotify=true&animatedDecoration=false&animated=false)](https://discord.com/users/998608551431897170)
+
